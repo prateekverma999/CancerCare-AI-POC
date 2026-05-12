@@ -26,7 +26,7 @@ CancerCare AI — Multi-Agent Cancer Risk &amp; Nutrition Intelligence Platform
                └──────────────┬──────────────┘
                               │
       ┌────────────────────────────────────────────┐
-      │                Multi Agents               │
+      │                Multi Agents                │
       └────────────────────────────────────────────┘
 
 
